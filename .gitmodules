@@ -1,0 +1,6 @@
+[submodule "projects/newDA"]
+	path = projects/newDA
+	url = http://10.20.1.199:30080/KR_PD_Photovoltaic/FD_newDA.git
+[submodule "projects/PV"]
+	path = projects/PV
+	url = http://10.20.1.199:30080/KR_PD_Photovoltaic/FD_pv_dashboar.git
