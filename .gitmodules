@@ -4,3 +4,6 @@
 [submodule "projects/PV"]
 	path = projects/PV
 	url = http://10.20.1.199:30080/KR_PD_Photovoltaic/FD_pv_dashboar.git
+[submodule "auto2"]
+	path = auto2
+	url = http://10.20.1.199:30080/KR_FD_All/auto2.git
